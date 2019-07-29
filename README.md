@@ -1,5 +1,6 @@
 # Jupyter
 
+
 This example will show how to run a jupyter notebook server with nginx, from a container (singularity container in this case).
 
 - perhaps you ran an analysis when you created the container, and want to serve the notebook as a result) or
